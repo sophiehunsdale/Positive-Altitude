@@ -1,0 +1,44 @@
+{
+  "project_info": {
+    "project_number": "1052581473655",
+    "firebase_url": "https://positive-altitude.firebaseio.com",
+    "project_id": "positive-altitude",
+    "storage_bucket": "positive-altitude.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1052581473655:android:479a5109002981be2c4572",
+        "android_client_info": {
+          "package_name": "com.positivealtitude.positivealtitude"
+        }
+      },
+      "rules": {
+        ".read": true,
+        ".write": true
+      },
+      "oauth_client": [
+        {
+          "client_id": "1052581473655-m6jmdeq3o1svg44vs1kjla0s4goc57kr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDu7LR3x4P4cUqFP64i6G4P1FK9XwN_bsM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1052581473655-m6jmdeq3o1svg44vs1kjla0s4goc57kr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

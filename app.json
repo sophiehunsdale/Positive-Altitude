@@ -1,0 +1,38 @@
+{
+  "expo": {
+    "name": "Positive Altitude",
+    "slug": "PositiveAltitude",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./src/images/icon.png",
+    "splash": {
+      "image": "./src/images/icon.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#f1eff0"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true,
+      "bundleIdentifier": "com.positivealtitude.positivealtitude",
+      "buildNumber": "1.0.0"
+    },
+    "android": {
+      "package": "com.positivealtitude.positivealtitude",
+      "versionCode": 1,
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyCP2g_G7gWIj19K1rYqQcDYepjDOzrV_rY"
+        }
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "description": ""
+  }
+}
